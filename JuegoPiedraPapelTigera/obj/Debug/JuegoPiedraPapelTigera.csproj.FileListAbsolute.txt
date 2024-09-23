@@ -1,0 +1,7 @@
+C:\Users\lizka\OneDrive - Universidad Tecnológica de Panamá\Semestre_2_2024\Desarrollo4\JuegoPiedraPapelTigera\JuegoPiedraPapelTigera\bin\Debug\JuegoPiedraPapelTigera.exe.config
+C:\Users\lizka\OneDrive - Universidad Tecnológica de Panamá\Semestre_2_2024\Desarrollo4\JuegoPiedraPapelTigera\JuegoPiedraPapelTigera\bin\Debug\JuegoPiedraPapelTigera.exe
+C:\Users\lizka\OneDrive - Universidad Tecnológica de Panamá\Semestre_2_2024\Desarrollo4\JuegoPiedraPapelTigera\JuegoPiedraPapelTigera\bin\Debug\JuegoPiedraPapelTigera.pdb
+C:\Users\lizka\OneDrive - Universidad Tecnológica de Panamá\Semestre_2_2024\Desarrollo4\JuegoPiedraPapelTigera\JuegoPiedraPapelTigera\obj\Debug\JuegoPiedraPapelTigera.csproj.AssemblyReference.cache
+C:\Users\lizka\OneDrive - Universidad Tecnológica de Panamá\Semestre_2_2024\Desarrollo4\JuegoPiedraPapelTigera\JuegoPiedraPapelTigera\obj\Debug\JuegoPiedraPapelTigera.csproj.CoreCompileInputs.cache
+C:\Users\lizka\OneDrive - Universidad Tecnológica de Panamá\Semestre_2_2024\Desarrollo4\JuegoPiedraPapelTigera\JuegoPiedraPapelTigera\obj\Debug\JuegoPiedraPapelTigera.exe
+C:\Users\lizka\OneDrive - Universidad Tecnológica de Panamá\Semestre_2_2024\Desarrollo4\JuegoPiedraPapelTigera\JuegoPiedraPapelTigera\obj\Debug\JuegoPiedraPapelTigera.pdb
